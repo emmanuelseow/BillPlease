@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="TTbill">Total Bill: $</string>
+    <string name="ttamt">Total Amount</string>
+    <string name="ttpax">Total Pax</string>
+</resources>
